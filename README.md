@@ -1,6 +1,8 @@
 # Customer Support Assistant
 
 AI-based Customer Support Assistant using NLP, CNN, and Reinforcement Learning.
+![A screenshot of the main screen](CSA.png)
+![A screenshot of the main screen](CSA_SS1.png)
 
 ---
 
