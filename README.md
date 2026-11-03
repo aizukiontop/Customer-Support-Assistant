@@ -8,7 +8,6 @@ AI-based Customer Support Assistant using NLP, CNN, and Reinforcement Learning.
 
 This project develops an intelligent system that classifies and assists customer support queries using machine learning models such as baseline classifiers, Convolutional Neural Networks (CNN), and a Reinforcement Learning (RL) prototype.
 ![A screenshot of the main screen](CSA.png)
-![A screenshot of the main screen](CSA_SS1.png)
 ---
 
 ## Dataset
